@@ -1,5 +1,4 @@
-###Data Modeler – Power BI
-
+# Data Modeler – Power BI
 ## Project Overview
 
 This project focuses on designing and implementing an optimized data model in Power BI to support scalable and high-performance reporting.
